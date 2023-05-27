@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SpaceShield
 - 🌱 I’m currently learning how to keep a project
 - ⚡ Fun fact: Im lazy, but love making something intresting
-- <!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
