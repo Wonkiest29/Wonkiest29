@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on SpaceShield
 - 🌱 I’m currently learning python
+- what will learn Python, js maybe some others
 - ⚡ Fun fact: Im lazy, but love making something intresting
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
