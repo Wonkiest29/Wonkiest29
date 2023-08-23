@@ -14,6 +14,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/741957448532754493)](https://discord.com/users/741957448532754493)
 
 
  
