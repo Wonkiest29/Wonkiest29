@@ -6,6 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on SpaceShield
+- ✨ My projects where something doing Mikis bot, simple cabinet
 - 🌱 I’m currently learning python
 - what will learn Python, js maybe some others
 - ⚡ Fun fact: Im lazy, but love making something intresting
