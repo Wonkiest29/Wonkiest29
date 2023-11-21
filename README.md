@@ -15,7 +15,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/741957448532754493)](https://discord.com/users/741957448532754493)
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/741957448532754493)](https://discord.com/users/741957448532754493) -->
 
 [![An image of @wonkiest29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wonkiest29)](https://holopin.io/@wonkiest29)
  
