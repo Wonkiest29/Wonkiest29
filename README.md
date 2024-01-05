@@ -6,9 +6,9 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on SpaceShield
-- ✨ My projects where something doing Mikis bot, cookie template
-- 🌱 I’m currently learning python
-- what will learn Python, js maybe some others
+- ✨ My projects where something doing Mikis bot, cookie open-source 
+- 🌱 I’m currently learning js
+- what will learn
 - ⚡ Fun fact: Im lazy, but love making something intresting
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
