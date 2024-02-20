@@ -5,7 +5,7 @@ $coffeewithoutsugar = [
     'age' => 17,
     'projects' => [
         'spaceshield',
-        'cookie'
+        'cookiecms'
     ],
     'lang' => [
         'php',
