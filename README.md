@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
 ```php
 $coffeewithoutsugar = [
