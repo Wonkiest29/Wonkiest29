@@ -2,6 +2,13 @@
 ```php
 $coffeewithoutsugar = [
     'name' => "Misha",
+    'timezone' => "GMT+1",
+    'worktime' => "11:00-18:00",
+    'langs' => [
+        'Ukr',
+        'Eng',
+        'r',
+    ],
     'age' => 17,
     'projects' => [
         'spaceshield',
