@@ -16,8 +16,7 @@ $coffeewithoutsugar = [
     ],
     'lang' => [
         'php',
-        'python',
-        'go'
+        'python'
     ],
     'apps' => [
         'git',
