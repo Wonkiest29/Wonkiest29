@@ -45,10 +45,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Wonkiest29/Wonkiest29/output/snake.svg" alt="Snake animation" />
-
-###
