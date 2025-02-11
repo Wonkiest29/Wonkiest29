@@ -1,5 +1,5 @@
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
-
+[![wakatime](https://wakatime.com/badge/user/018d003a-14da-4d91-b5c2-d25a9c9cfebe.svg)](https://wakatime.com/@018d003a-14da-4d91-b5c2-d25a9c9cfebe)
 ###
 
 <div align="center">
